@@ -90,3 +90,21 @@ Service:          68.00
 Discount (10%):   77.60
 TOTAL:            698.40
 ========================================
+
+🧠 Concepts Used
+	•	Structures (struct)
+	•	Arrays
+	•	Enums
+	•	File Handling (fprintf, fopen)
+	•	Conditionals & loops
+	•	Functions & modular design
+	•	String handling (strcpy, strncmp, etc.)
+	•	Time library for timestamps
+
+⸻
+
+🛠️ Future Enhancements
+	•	Support for multiple discounts / coupon codes
+	•	Add customer database
+	•	Export all orders to CSV format
+	•	GUI or web-based frontend using C/HTML integration
